@@ -13,3 +13,8 @@ Currently developing a database management system with a query language based on
 My main interests are: Linux, Web Development (front-end and back-end), Embedded Systems, Systems Programming and Game Development.
 
 Nice to meet you!
+
+Contact:
+https://www.linkedin.com/in/lucca-han/
+https://www.ludihan.xyz/
+luccad.han@gmail.com
