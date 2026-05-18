@@ -1,6 +1,10 @@
 ## Hi there 👋 I'm ludihan
 
-![Dennis Ritchie and Ken Thompson](https://historyofinformation.com/images/Screen_Shot_2020-09-19_at_7.16.21_AM_big.png)
+  <img 
+      align="left" src="https://historyofinformation.com/images/Screen_Shot_2020-09-19_at_7.16.21_AM_big.png"
+      alt="Dennis Ritchie and Ken Thompson"
+      width="320" 
+  />
 
 I'm a brazilian developer based in Manaus, Amazonas, Brazil.
 
