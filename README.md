@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm ludihan
 
   <img 
-      align="left" src="https://historyofinformation.com/images/Screen_Shot_2020-09-19_at_7.16.21_AM_big.png"
+      align="right" src="https://historyofinformation.com/images/Screen_Shot_2020-09-19_at_7.16.21_AM_big.png"
       alt="Dennis Ritchie and Ken Thompson"
       width="400" 
   />
