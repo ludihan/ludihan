@@ -15,6 +15,9 @@ My main interests are: Linux, Web Development (front-end and back-end), Embedded
 Nice to meet you!
 
 Contact:
+
 https://www.linkedin.com/in/lucca-han/
+
 https://www.ludihan.xyz/
+
 luccad.han@gmail.com
