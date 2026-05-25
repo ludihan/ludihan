@@ -29,7 +29,7 @@ I use NixOS, btw.
 
 Nice to meet you!
 
-Contact:
+Contact information:
 - https://www.linkedin.com/in/lucca-han/
-- https://www.ludihan.xyz/
 - luccad.han@gmail.com
+- https://www.ludihan.xyz/
