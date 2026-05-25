@@ -14,6 +14,7 @@ I program in a variety of programming languages but mostly:
 - Javascript (web front-end stuff)
 - C (embedded and systems stuff)
 - Nix (NixOS, devShells, config and building stuff)
+- GDScript (Godot stuff, AKA gamedev stuff)
 
 My main interests are: 
 - Linux
