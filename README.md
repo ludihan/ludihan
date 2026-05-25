@@ -13,7 +13,7 @@ I program in a variety of programming languages but mostly:
 - Go (web back-end stuff)
 - Javascript (web front-end stuff)
 - C (embedded and systems stuff)
-- Nix (devShells, config and building stuff)
+- Nix (NixOS, devShells, config and building stuff)
 
 My main interests are: 
 - Linux
