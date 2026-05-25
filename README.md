@@ -2,11 +2,18 @@
 
   <img 
       align="right" src="https://historyofinformation.com/images/Screen_Shot_2020-09-19_at_7.16.21_AM_big.png"
-      alt="Dennis Ritchie and Ken Thompson"
+      alt="Ken Thompson (sitting) and Dennis Ritchie working together at a PDP-11"
       width="400" 
   />
 
 I'm a brazilian developer based in Manaus, Amazonas, Brazil.
+
+I program in a variety of programming languages but mostly:
+- Rust (general stuff)
+- Go (web back-end stuff)
+- Javascript (web front-end stuff)
+- C (embedded and systems stuff)
+- Nix (devShells, config and building stuff)
 
 My main interests are: 
 - Linux
@@ -16,6 +23,8 @@ My main interests are:
 - Systems Programming
 - Game Development
 - Music
+
+I use NixOS, btw.
 
 Nice to meet you!
 
