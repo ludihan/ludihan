@@ -11,7 +11,7 @@ I'm a brazilian developer based in Manaus, Amazonas, Brazil.
 I program in a variety of programming languages but mostly:
 - Rust (general stuff)
 - Go (web back-end stuff)
-- Javascript (web front-end stuff)
+- Javascript/Typescript (web front-end stuff)
 - C (embedded and systems stuff)
 - Nix (NixOS, devShells, config and building stuff)
 - GDScript (Godot stuff, AKA gamedev stuff)
