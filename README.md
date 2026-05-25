@@ -8,7 +8,14 @@
 
 I'm a brazilian developer based in Manaus, Amazonas, Brazil.
 
-My main interests are: Linux, DevOps, Web Development (front-end and back-end), Embedded Systems, Systems Programming, Game Development and Music.
+My main interests are: 
+- Linux
+- DevOps
+- Web Development (front-end and back-end)
+- Embedded Systems
+- Systems Programming
+- Game Development
+- Music
 
 Nice to meet you!
 
