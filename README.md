@@ -19,7 +19,7 @@ I program in a variety of programming languages but mostly:
 My main interests are: 
 - Linux
 - DevOps
-- Web Development (both front-end and back-end, AKA full-stack)
+- Web Development
 - Embedded Systems
 - Systems Programming
 - Game Development
