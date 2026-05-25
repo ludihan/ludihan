@@ -8,8 +8,6 @@
 
 I'm a brazilian developer based in Manaus, Amazonas, Brazil.
 
-Currently developing a database management system with a query language based on relational algebra.
-
 My main interests are: Linux, DevOps, Web Development (front-end and back-end), Embedded Systems, Systems Programming and Game Development.
 
 Nice to meet you!
