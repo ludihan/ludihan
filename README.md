@@ -13,7 +13,6 @@ I program in a variety of programming languages but mostly:
 - Go (web back-end stuff)
 - Javascript/Typescript (web front-end stuff)
 - C (embedded and systems stuff)
-- Nix (NixOS, devShells, config and building stuff)
 - GDScript (Godot stuff, AKA gamedev stuff)
 
 My main interests are: 
@@ -25,7 +24,7 @@ My main interests are:
 - Game Development
 - Music
 
-I use NixOS, btw.
+I use openSUSE Tumbleweed, btw.
 
 Nice to meet you!
 
