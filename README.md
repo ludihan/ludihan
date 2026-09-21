@@ -8,22 +8,6 @@
 
 I'm a brazilian developer based in Manaus, Amazonas, Brazil.
 
-I program in a variety of programming languages but mostly:
-- Rust (general stuff)
-- Go (web back-end stuff)
-- Javascript/Typescript (web front-end stuff)
-- C (embedded and systems stuff)
-- GDScript (Godot stuff, AKA gamedev stuff)
-
-My main interests are: 
-- Linux
-- DevOps
-- Web Development
-- Embedded Systems
-- Systems Programming
-- Game Development
-- Music
-
 I use openSUSE, btw.
 
 Nice to meet you!
