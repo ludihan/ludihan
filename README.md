@@ -8,8 +8,6 @@
 
 I'm a brazilian developer based in Manaus, Amazonas, Brazil.
 
-I use openSUSE, btw.
-
 Nice to meet you!
 
 Contact information:
