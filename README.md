@@ -14,3 +14,6 @@ Contact information:
 - https://www.linkedin.com/in/lucca-han/
 - luccad.han@gmail.com
 - https://ludihan.com/
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
